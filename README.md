@@ -1,2 +1,2 @@
 # student
-new project
+new project by local machine.
